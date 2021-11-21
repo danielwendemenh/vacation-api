@@ -1,4 +1,4 @@
-This is has:
+the app has:
 
 authentication useing bcrypt and passport mongoose and jwt
 
