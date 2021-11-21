@@ -1,3 +1,11 @@
+This is has:
+
+authentication useing bcrypt and passport mongoose and jwt
+
+rest api for vacation you are able to add update or delete vacations  
+
+
+
 Express based api
 
 Vacations Routes :
